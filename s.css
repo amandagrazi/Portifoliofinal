@@ -1,0 +1,61 @@
+#menu ul {
+    background-color: background: #9D50BB;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6E48AA, #9D50BB);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6E48AA, #9D50BB);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin: 25px;
+    text-decoration: none;
+}
+
+#menu ul li {
+
+    display: inline;
+
+}
+
+
+#menu ul li a {
+    padding: 10px;
+    10px;
+    display: inline-block;
+    color: white;
+    font-size: 45px;
+
+
+}
+
+
+a {
+
+
+    text-decoration: none;
+}
+
+body {
+
+    background-color: background: #abbaab;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffffff, #abbaab);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffffff, #abbaab);
+
+
+
+}
+
+
+
+.li {
+    text-align: center;
+    font-size: 45px;
+    color: #2f0a53;
+    font-family: 'Oswald', sans-serif;
+
+
+
+}
